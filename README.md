@@ -16,3 +16,5 @@ for (i=0; i<n; i++)
 printf("max=%d\n", max);
 printf("min=%d", min);
 }
+This is a mistake
+end
